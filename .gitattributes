@@ -1,0 +1,16 @@
+splits/part0016 filter=lfs diff=lfs merge=lfs -text
+splits/part0005 filter=lfs diff=lfs merge=lfs -text
+splits/part0006 filter=lfs diff=lfs merge=lfs -text
+splits/part0009 filter=lfs diff=lfs merge=lfs -text
+splits/part0012 filter=lfs diff=lfs merge=lfs -text
+splits/part0013 filter=lfs diff=lfs merge=lfs -text
+splits/part0004 filter=lfs diff=lfs merge=lfs -text
+splits/part0007 filter=lfs diff=lfs merge=lfs -text
+splits/part0010 filter=lfs diff=lfs merge=lfs -text
+splits/part0003 filter=lfs diff=lfs merge=lfs -text
+splits/part0008 filter=lfs diff=lfs merge=lfs -text
+splits/part0011 filter=lfs diff=lfs merge=lfs -text
+splits/part0014 filter=lfs diff=lfs merge=lfs -text
+splits/part0015 filter=lfs diff=lfs merge=lfs -text
+splits/part0001 filter=lfs diff=lfs merge=lfs -text
+splits/part0002 filter=lfs diff=lfs merge=lfs -text
